@@ -1,6 +1,7 @@
 {
   "name": "rappone",
   "version": "0.1.0",
+  "homepage": "https://mkp0.github.io/mynotesapp",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
